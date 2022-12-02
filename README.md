@@ -4,7 +4,7 @@ When creating a machine learning project, it is not always a case that we come a
 # Why do we need Data Preprocessing?
 A real-world data generally contains noises, missing values, and maybe in an unusable format which cannot be directly used for machine learning models. Data preprocessing is required tasks for cleaning the data and making it suitable for a machine learning model which also increases the accuracy and efficiency of a machine learning model. 
 # It involves below steps:
-Getting the dataset
+**Getting the dataset**
 Importing libraries
 Importing datasets
 Finding Missing Data
