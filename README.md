@@ -6,9 +6,15 @@ A real-world data generally contains noises, missing values, and maybe in an unu
 # It involves below steps:
 **Getting the dataset**  
 
-Importing libraries
-Importing datasets
-Finding Missing Data
-Encoding Categorical Data
-Splitting dataset into training and test set
-Feature scaling
+**Importing libraries**  
+
+**Importing datasets**  
+
+**Finding Missing Data**
+
+E**ncoding Categorical Data**  
+
+**Splitting dataset into training and test set**  
+
+**Feature scaling**  
+
